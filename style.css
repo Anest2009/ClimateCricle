@@ -14,7 +14,7 @@ body {
     height: 100%;
     background: 
         linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), 
-        url('images/earth.png') no-repeat center center; /* Update to your relative path */
+        url('earth.png') no-repeat center center; /* Update to your relative path */
     background-size: cover; /* This makes the image cover the whole background */
     height: 100vh; /* Set the height to fill the viewport */
     animation: bgAnimation 20s infinite alternate;
